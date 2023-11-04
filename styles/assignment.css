@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* font family details taken from open sans /google fonts */
+.banner-title{
+    color: var(--Dark-01, #151414);
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+}
+.banner-description{
+    color: var(--Dark-02, #444343);
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+}
+.contact-primary{
+    text-align: right;
+}
+.banner{
+    margin: 30px 40px;
+}
